@@ -1,4 +1,4 @@
-Please **download** the notebook to view the code and corresponding results.
+Please **DOWNLOAD** the notebook to view the code and corresponding results.
 
 This repository contains a single Python notebook used for the master's thesis:
 "Exploring Machine Learning Techniques for Credit Risk: Feature Selection, Multiple Classifier Systems, and Survival Analysis in Probability of Default Prediction".
